@@ -1,0 +1,74 @@
+{
+    "result": [
+        {
+            "gender": "male",
+            "firstName": "Iwan",
+            "lastName": "Kranz",
+            "age": 47,
+            "country": "Germany"
+        },
+        {
+            "gender": "male",
+            "firstName": "Gregorio",
+            "lastName": "de la Cr\u00faz",
+            "age": 65,
+            "country": "Mexico"
+        },
+        {
+            "gender": "male",
+            "firstName": "Falan",
+            "lastName": "Andrade",
+            "age": 77,
+            "country": "India"
+        },
+        {
+            "gender": "male",
+            "firstName": "Matias",
+            "lastName": "Niska",
+            "age": 64,
+            "country": "Finland"
+        },
+        {
+            "gender": "male",
+            "firstName": "Toivo",
+            "lastName": "Keto",
+            "age": 62,
+            "country": "Finland"
+        },
+        {
+            "gender": "male",
+            "firstName": "Virgil",
+            "lastName": "Walters",
+            "age": 23,
+            "country": "Ireland"
+        },
+        {
+            "gender": "male",
+            "firstName": "Brayden",
+            "lastName": "Richards",
+            "age": 52,
+            "country": "Ireland"
+        },
+        {
+            "gender": "male",
+            "firstName": "Simon",
+            "lastName": "Jones",
+            "age": 38,
+            "country": "Canada"
+        },
+        {
+            "gender": "male",
+            "firstName": "\u00c9tienne",
+            "lastName": "Roche",
+            "age": 29,
+            "country": "Switzerland"
+        },
+        {
+            "gender": "male",
+            "firstName": "Villads",
+            "lastName": "Thomsen",
+            "age": 43,
+            "country": "Denmark"
+        }
+    ]
+}
