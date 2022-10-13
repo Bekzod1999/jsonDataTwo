@@ -13,7 +13,7 @@ for i in range(20):
 dictionary1['result'] = allResults
 jsonObject = json.dumps(dictionary1)
 file = open('data.json', 'w')
-file.write(jsonObject)
+file.write(jsonObject) 
 
 json_data = open("data.json", 'r', encoding='utf-8')
 dictionaryData = json.load(json_data)
